@@ -5,9 +5,7 @@
 
 ---
 
-## 🏷 Бейджи навыков
-
-### Языки и библиотеки
+## Языки и библиотеки
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EA4335?style=flat-square&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
@@ -20,12 +18,12 @@
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Qdrant](https://img.shields.io/badge/-Qdrant-5A2D82?style=flat-square)
 
-### DevOps и инструменты
+## DevOps и инструменты
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-### Облака и базы данных
+## Облака и базы данных
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 
 ---
