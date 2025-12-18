@@ -57,7 +57,6 @@
 - Телеграм-бот, который отвечает на юридические вопросы
 - Использует embedding-модель + поиск по векторному пространству
 - Технологии: Python, Qdrant, Sentence-Transformers, FastAPI, Telegram API  
-![Demo](https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif)  
 
 ---
 
