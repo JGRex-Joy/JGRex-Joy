@@ -28,8 +28,8 @@ class Amir:
         
     def get_stack(self):
         return {
-            "Language": ["Python 3.11+", "SQL"],
-            "AI_ML": ["PyTorch", "Transformers", "SentenceTransformers", "Scikit-Learn"],
-            "Vector_Search": ["Qdrant", "FAISS"],
+            "Language": ["Python", "Java", "SQL"],
+            "AI_ML": ["PyTorch", "Transformers", "SentenceTransformers", "Scikit-Learn", "HF", "Langchain", "LangGraph"],
+            "Vector_Search": ["Qdrant", "ChromaDB", "FAISS"],
             "Backend": ["FastAPI", "PostgreSQL", "Docker", "AsyncIO"]
         }
