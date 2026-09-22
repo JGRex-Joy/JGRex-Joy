@@ -18,15 +18,19 @@
 
 ---
 
-### 🎧 NOW PLAYING: *Amir — Prod-Ready (feat. TechYard)*
+<div align="center">
+
+### 🎧 NOW PLAYING: *Amir — Zero Latency*
 `01:42 ▬▬▬▬▬▬▬▬◯▬▬▬▬ 03:22`
 `◁  II  ▷  ↺  💬`
 
-> 🎤 **"It was all a dream, raw scripts on the screen,**  
-> **Now I’m turnin' heavy research into prod-ready schemes.**  
-> **RAG pipelines poppin', FastAPI runs fast,**  
-> **President at TechYard, built to make the code last."**
+> 🎤 **"Started in Jupyter, now we scale to the cloud,**  
+> **FastAPI microservices, CUDA cores run loud.**  
+> **Semantic vector search, state-of-the-art design,**  
+> **Shippin' real-world AI, leaving legacy code behind."**
 
+---
+</div>
 ---
 </div>
 
