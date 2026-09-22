@@ -1,7 +1,7 @@
 <div align="center">
 
 # ⚡ AMIR OMURKULOV ⚡
-### `AI Engineer` • `Backend Developer` • `RAG & LLM Specialist`
+### `AI Engineer` • `Backend Developer` 
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F0FF&center=true&vcenter=true&width=500&height=50&lines=Building+Intelligent+LLM+Agents;Architecting+RAG+Pipelines;High-Performance+FastAPI+Backends;NLP+%26+Vector+Databases" alt="Typing SVG" />
