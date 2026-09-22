@@ -14,6 +14,21 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omurkulovamir2008@gmail.com)
 
 </div>
+<div align="center">
+
+---
+
+### 🎧 NOW PLAYING: *Amir — Prod-Ready (feat. TechYard)*
+`01:42 ▬▬▬▬▬▬▬▬◯▬▬▬▬ 03:22`
+`◁  II  ▷  ↺  💬`
+
+> 🎤 **"It was all a dream, raw scripts on the screen,**  
+> **Now I’m turnin' heavy research into prod-ready schemes.**  
+> **RAG pipelines poppin', FastAPI runs fast,**  
+> **President at TechYard, built to make the code last."**
+
+---
+</div>
 
 ---
 
