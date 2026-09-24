@@ -1,7 +1,6 @@
 # Amir Omurkulov
 
-**AI Engineer** • **Backend Developer**  
-📍 Bishkek, Kyrgyzstan
+**AI Engineer** • **Backend Developer** 
 
 Building production-grade **LLM Agents**, **RAG Pipelines**, and scalable **FastAPI microservices**.
 
