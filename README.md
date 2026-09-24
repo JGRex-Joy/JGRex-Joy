@@ -1,46 +1,31 @@
-<div align="center">
+# Amir Omurkulov
 
-# ⚡ AMIR OMURKULOV ⚡
-### `AI Engineer` • `Backend Developer`
+**AI Engineer** • **Backend Developer**  
+📍 Bishkek, Kyrgyzstan
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F0FF&center=true&vcenter=true&width=500&height=50&lines=Building+Intelligent+LLM+Agents;Architecting+RAG+Pipelines;High-Performance+FastAPI+Backends;NLP+%26+Vector+Databases" alt="Typing SVG" />
-</a>
+Building production-grade **LLM Agents**, **RAG Pipelines**, and scalable **FastAPI microservices**.
 
 ---
 
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/JGRex_joy)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amir-omurkulov-a6b093345/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omurkulovamir2008@gmail.com)
+### 🚀 Technical Expertise
+
+* **Languages:** `Python` • `Java` • `SQL`
+* **AI / ML / NLP:** `PyTorch` • `Hugging Face` • `LangChain` • `LangGraph` • `SentenceTransformers` • `Scikit-Learn`
+* **Vector DBs:** `Qdrant` • `ChromaDB` • `FAISS`
+* **Backend & DevOps:** `FastAPI` • `AsyncIO` • `PostgreSQL` • `Docker` • `Git`
 
 ---
 
-### 🎧 NOW PLAYING: *Amir — Zero Latency*
-`01:42 ▬▬▬▬▬▬▬▬◯▬▬▬▬ 03:22`
-`◁  II  ▷  ↺  💬`
+### 📌 Core Focus
 
-> 🎤 **"Started in Jupyter, now we scale to the cloud,**  
-> **FastAPI microservices, CUDA cores run loud.**  
-> **Semantic vector search, state-of-the-art design,**  
-> **Shippin' real-world AI, leaving legacy code behind."**
-
-</div>
+- 🤖 **Agentic AI & RAG:** Designing contextual search systems, chunking strategies, and multi-agent workflows.
+- ⚡ **High-Performance Backends:** Engineering low-latency async REST APIs and microservice architecture.
+- 🛠️ **Cloud & Scalability:** Deploying AI workloads and vector stores to production environments.
 
 ---
 
-### 🧠 Core Expertise
+### 📬 Connect
 
-```python
-class Amir:
-    def __init__(self):
-        self.role = "Junior AI & Backend Engineer"
-        self.primary_focus = ["RAG Pipelines", "LLM Fine-Tuning", "Async Microservices"]
-        self.location = "Bishkek, KG"
-        
-    def get_stack(self):
-        return {
-            "Language": ["Python", "Java", "SQL"],
-            "AI_ML": ["PyTorch", "Transformers", "SentenceTransformers", "Scikit-Learn", "HuggingFace", "LangChain", "LangGraph"],
-            "Vector_Search": ["Qdrant", "ChromaDB", "FAISS"],
-            "Backend": ["FastAPI", "PostgreSQL", "Docker", "AsyncIO"]
-        }
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/JGRex_joy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amir-omurkulov-a6b093345/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:omurkulovamir2008@gmail.com)
